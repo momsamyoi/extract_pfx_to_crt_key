@@ -4,7 +4,7 @@
 # Original by https://gist.github.com/mediaupstream/a2694859b1afa59f26be5e8f6fd4806a
 # Thank you mediaupstream on github
 #
-# Modify by Piyapong 07-Nov-2019
+# Modify by MomSamYoi 07-Nov-2019
 # Usage: sh <this_script.sh> PFXcert without extension .pfx
 # Adding: Checking Missing, Verify .crt and .key,Result Color and Clean-up after process
 #
